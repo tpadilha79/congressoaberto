@@ -1,0 +1,50 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="324" measuredH="578" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="42" y="5" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="68" y="104" w="230" h="392" measuredW="261" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CRepresentativesListScreen%26bm%3BRepresentativesListScreen.bmml%26bm%3BRepresentativesListScreen.bmml%26bm%3BRepresentativesListScreen.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22110%2C464%2C187%2C491%22%20href%3D%22RepresentativesListScreen.bmml%22%20alt%3D%22RepresentativesListScreen%22%20id%3D%224%22/%3E%0A</map>
+        <markup>true</markup>
+        <selectedIndex>0</selectedIndex>
+        <tabVPosition>bottom</tabVPosition>
+        <text>Sess%F5es%2C%20Deputados%2C%20Projetos</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SearchBox" x="74" y="112" w="218" h="-1" measuredW="134" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pesquisar%20Sess%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="68" y="143" w="229" h="70" measuredW="229" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>SessionDetailScreen%26bm%3BSessionDetailScreen.bmml%26bm%3BSessionDetailScreen.bmml%26bm%3BSessionDetailScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C138%2C255%2C208%22%20href%3D%22SessionDetailScreen.bmml%22%20alt%3D%22SessionDetailScreen%22%20id%3D%2218%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="6" y="6" w="-1" h="-1" measuredW="192" measuredH="27" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>282%20-%20Sess%E3o%20%22X%22</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="9" y="36" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>20/09/2013%2020%3A00%3A00</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="214" y="21" w="-1" h="-1" measuredW="15" measuredH="28" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            <size>20</size>
+            <text>%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,70 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="324" measuredH="578" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="42" y="5" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="68" y="104" w="230" h="392" measuredW="261" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <selectedIndex>1</selectedIndex>
+        <tabVPosition>bottom</tabVPosition>
+        <text>Sess%F5es%2C%20Deputados%2C%20Projetos</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SearchBox" x="74" y="112" w="218" h="-1" measuredW="147" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pesquisar%20Deputado</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="68" y="143" w="229" h="127" measuredW="229" measuredH="127" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>RepresentativeDetailScreen%26bm%3BRepresentativeDetailScreen.bmml%26bm%3BRepresentativeDetailScreen.bmml%26bm%3BRepresentativeDetailScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C138%2C255%2C265%22%20href%3D%22RepresentativeDetailScreen.bmml%22%20alt%3D%22RepresentativeDetailScreen%22%20id%3D%2235%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="127" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="35"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="45" y="9" w="-1" h="-1" measuredW="148" measuredH="27" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Jos%E9%20da%20Silva</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="45" y="36" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="2" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>PSB/RS</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="214" y="35" w="-1" h="-1" measuredW="15" measuredH="28" zOrder="3" locked="false" isInGroup="35">
+          <controlProperties>
+            <bold>true</bold>
+            <size>20</size>
+            <text>%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="6" y="8" w="30" h="28" measuredW="625" measuredH="470" zOrder="4" locked="false" isInGroup="35">
+          <controlProperties>
+            <filter>true</filter>
+            <src>./assets/FotoDeputado.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="6" y="57" w="218" h="-1" measuredW="180" measuredH="21" zOrder="5" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Total%20de%20Sess%F5es%20no%20Ano%3A%20234</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="6" y="77" w="218" h="-1" measuredW="145" measuredH="21" zOrder="6" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Total%20de%20Presen%E7as%3A%20209</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="6" y="99" w="218" h="-1" measuredW="176" measuredH="21" zOrder="7" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Percentual%20de%20Presen%E7a%3A%2090%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
