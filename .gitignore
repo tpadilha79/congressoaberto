@@ -1,7 +1,7 @@
-Development/congresssoaberto/node_modules/*
-Development/congressoaberto/dist/*
-Development/congressoaberto/.tmp
-Development/congressoaberto/.sass-cache
-Development/congressoaberto/app/bower_components
-Development/congressoaberto/www/*
+Development/node_modules/*
+Development/dist/*
+Development/.tmp
+Development/.sass-cache
+Development/app/bower_components/*
+Development/www/*
 
